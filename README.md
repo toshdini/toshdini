@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @toshdini
-- 👀 I’m interested in Data science concepts and manipulation of data
-- 🌱 I’m currently learning Software Engineer and looking to get into Ai in the future!
+- 👀 I’m interested in creating native software and contributing to open source projects that I find intresting
+- 🌱 I’m currently learning Software Development and looking to get into Android dev in the future!
 - 📫 How to reach me: Linkden: https://www.linkedin.com/in/abdirahman-mohamed-9043ab137/
 
 <!---
